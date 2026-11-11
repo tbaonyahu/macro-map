@@ -1,0 +1,327 @@
+{
+ "version": 1,
+ "sections": [
+  {
+   "name": "SECTORS",
+   "items": [
+    {
+     "s": "AMEX:XLC",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:XLU",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:XLRE",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:XLB",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:XLP",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:XLY",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:XLE",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:XLV",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:XLF",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:XLI",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:XLK",
+     "type": "etf"
+    }
+   ]
+  },
+  {
+   "name": "MAIN",
+   "items": [
+    {
+     "s": "AMEX:EWT",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:IPO",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:URA",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:EIS",
+     "type": "etf"
+    },
+    {
+     "s": "NYSE:TCAI",
+     "type": "etf"
+    },
+    {
+     "s": "NASDAQ:KOID",
+     "type": "etf"
+    },
+    {
+     "s": "CBOE:MTUM",
+     "type": "etf"
+    },
+    {
+     "s": "NASDAQ:AIA",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:BLOK",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:TRFK",
+     "type": "etf"
+    },
+    {
+     "s": "NASDAQ:QTUM",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:OIH",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:CHAT",
+     "type": "etf"
+    },
+    {
+     "s": "CBOE:WQTM",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:KNCT",
+     "type": "etf"
+    },
+    {
+     "s": "NASDAQ:AAPU",
+     "type": "etf"
+    },
+    {
+     "s": "NASDAQ:TSLG",
+     "type": "etf"
+    },
+    {
+     "s": "NASDAQ:SMHX",
+     "type": "etf"
+    },
+    {
+     "s": "NASDAQ:SMH",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:AIS",
+     "type": "etf"
+    }
+   ]
+  },
+  {
+   "name": "INDICES",
+   "items": [
+    {
+     "s": "AMEX:GLD",
+     "type": "etf"
+    },
+    {
+     "s": "NASDAQ:QQQ",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:SPY",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:VTI",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:VOO",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:IVV",
+     "type": "etf"
+    },
+    {
+     "s": "AMEX:SCHD",
+     "type": "etf"
+    },
+    {
+     "s": "CBOE:DRAM",
+     "type": "etf"
+    }
+   ]
+  },
+  {
+   "name": "COMMODITIES",
+   "items": [
+    {
+     "s": "COMEX:HG1!",
+     "type": "fut"
+    },
+    {
+     "s": "COMEX:SI1!",
+     "type": "fut"
+    },
+    {
+     "s": "NYMEX:NG1!",
+     "type": "fut"
+    },
+    {
+     "s": "NYMEX:CL1!",
+     "type": "fut"
+    },
+    {
+     "s": "COMEX:GC1!",
+     "type": "fut"
+    }
+   ]
+  },
+  {
+   "name": "VOLATILITY",
+   "items": [
+    {
+     "s": "CBOE:UVXY",
+     "type": "etf"
+    },
+    {
+     "s": "CBOE:VVIX",
+     "type": "index"
+    },
+    {
+     "s": "TVC:VIX",
+     "type": "index"
+    }
+   ]
+  },
+  {
+   "name": "TECH",
+   "items": [
+    {
+     "s": "NASDAQ:MU",
+     "type": "stock"
+    },
+    {
+     "s": "NYSE:TSM",
+     "type": "stock"
+    },
+    {
+     "s": "NASDAQ:AMD",
+     "type": "stock"
+    },
+    {
+     "s": "NASDAQ:NVDA",
+     "type": "stock"
+    },
+    {
+     "s": "NASDAQ:MSFT",
+     "type": "stock"
+    },
+    {
+     "s": "NASDAQ:AAPL",
+     "type": "stock"
+    },
+    {
+     "s": "NASDAQ:GOOGL",
+     "type": "stock"
+    },
+    {
+     "s": "NASDAQ:AVGO",
+     "type": "stock"
+    },
+    {
+     "s": "NASDAQ:META",
+     "type": "stock"
+    },
+    {
+     "s": "NASDAQ:SPCX",
+     "type": "stock"
+    },
+    {
+     "s": "NASDAQ:PLTR",
+     "type": "stock"
+    }
+   ]
+  },
+  {
+   "name": "CONSUMER",
+   "items": [
+    {
+     "s": "NASDAQ:OPEN",
+     "type": "stock"
+    },
+    {
+     "s": "NASDAQ:TSLA",
+     "type": "stock"
+    },
+    {
+     "s": "NASDAQ:AMZN",
+     "type": "stock"
+    },
+    {
+     "s": "NASDAQ:HOOD",
+     "type": "stock"
+    },
+    {
+     "s": "NYSE:UBER",
+     "type": "stock"
+    }
+   ]
+  },
+  {
+   "name": "DEFENSE",
+   "items": [
+    {
+     "s": "NYSE:LMT",
+     "type": "stock"
+    }
+   ]
+  },
+  {
+   "name": "HEALTHCARE",
+   "items": [
+    {
+     "s": "NYSE:UNH",
+     "type": "stock"
+    }
+   ]
+  },
+  {
+   "name": "CRYPTO",
+   "items": [
+    {
+     "s": "COINBASE:BTCUSD",
+     "type": "crypto"
+    },
+    {
+     "s": "NASDAQ:COIN",
+     "type": "stock"
+    },
+    {
+     "s": "NASDAQ:MSTR",
+     "type": "stock"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+# Netlify settings for Macro Map
+[build]
+  publish = "site"                 # the website files
+  functions = "netlify/functions"  # server code (Buffett scorer at /api/score)
